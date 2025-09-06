@@ -42,5 +42,6 @@ You can send **single emails** or **bulk emails** directly from the command line
 - Select your operation:
 - 1.Single email sender
 - 2.Bulk email sender
+- 2 (if you selected 2)
 - Enter emails separated by comma: test1@gmail.com, test2@gmail.com
 - Successfully email sent!
