@@ -36,11 +36,11 @@ You can send **single emails** or **bulk emails** directly from the command line
 - │── bulkEmailSend.py     # Handles bulk email sending
 
 ### 🎯 Example Output
-smtplib is available!
-Enter subject: Successfully smtp created and email sent.
-Enter body: Email sent
-Select your operation:
-1. Single email sender
-2. Bulk email sender
-Enter emails separated by comma: test1@gmail.com, test2@gmail.com
-Successfully email sent!
+- smtplib is available!
+- Enter subject: Successfully smtp created and email sent.
+- Enter body: Email sent
+- Select your operation:
+- 1. Single email sender
+- 2. Bulk email sender
+- Enter emails separated by comma: test1@gmail.com, test2@gmail.com
+- Successfully email sent!
